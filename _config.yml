@@ -47,12 +47,9 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: jekyll
+
+    web_url: https://github.com/topics/jekyll
+    image_url: https://i.github-camo.com/d5a4836e41a7a0e89120d22fb9723194d5a90633/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4172636174682f6a656b796c6c2d61746f6d2f6d61737465722f696d616765732f6a656b796c6c2e706e67
 
   - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
