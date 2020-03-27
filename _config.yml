@@ -33,7 +33,7 @@ projects:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: triho_
+  instagram: triho_w
   # keybase: your_username
   linkedin: tri-ho
   # mastodon: your_username
@@ -48,7 +48,6 @@ projects:
 
 topics:
   - name: jekyll
-
     web_url: https://github.com/topics/jekyll
     image_url: https://i.github-camo.com/d5a4836e41a7a0e89120d22fb9723194d5a90633/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4172636174682f6a656b796c6c2d61746f6d2f6d61737465722f696d616765732f6a656b796c6c2e706e67
 
