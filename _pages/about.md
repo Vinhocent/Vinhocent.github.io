@@ -13,7 +13,7 @@ I love to learn, tinker and take pictures!
 
 I'm an avid member of the [ricing community](https://www.reddit.com/r/unixporn/), I love to make my desktop environment the most aesthetic it can possibly be. I am currently dual-booting Windows 10 and Manjaro Linux. Ever since middle school, graphic design is something I've found to love. [Here](./portfolio) are some of my graphics.
 
-Offline, I take amateur pictures of nature and cityscapes, listening to music, or hanging out with my friends.
+Offline, I take amateur pictures of nature and cityscapes, listen to music, or hang out with my friends.
 
 I am always looking for new opportunities, whether you're a new teammate, a highschool student or simply a new friend — I'm always open to chat. Feel free to reach out to me via my socials below.
 
