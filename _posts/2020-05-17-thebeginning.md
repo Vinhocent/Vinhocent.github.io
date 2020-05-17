@@ -23,3 +23,5 @@ But that's enough of SHAD, this blog is about ONE ROCK.
 To be honest, I've only listened to Bombs Away and their other hit songs, I've never listened to THe Beginning, that was just an excuse to talk about SHAD and Bombs Away in my first post.
 
 Thanks for reading! Come again!
+
+btw. i got into shad so dw. the story carries on.
