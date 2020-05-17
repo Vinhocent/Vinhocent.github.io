@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About Me
+title: About Me - Tri Ho
 ---
-sadahfjasjfkl
-Triyeyea
+
+Hey there!
+
+![me](me.jpg)
+
+I'm an incoming [computer science student at the University of Waterloo!](https://uwaterloo.ca/future-students/programs/computer-science)
 
 
-### Features
 
 
 
-### Screenshot
 
-![Screenshot](screenshot.png)
+
+
+

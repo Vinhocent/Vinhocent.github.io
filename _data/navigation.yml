@@ -3,8 +3,9 @@ links:
   url: /
 - title: About
   url: /about
-- title: Search
-  url: /search
 - title: Resume
   url: /resume
+- title: Search
+  url: /search
+
 
