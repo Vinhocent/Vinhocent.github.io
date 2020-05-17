@@ -7,7 +7,7 @@ title: About Me - Tri Ho
 
 **Hey There!**
 
-I'm an incoming [Computer Science Student at the University of Waterloo!](https://uwaterloo.ca/future-students/programs/computer-science).
+I'm an incoming <a href="https://uwaterloo.ca/future-students/programs/computer-science" target="_blank">Computer Science Student at the University of Waterloo!</a>.
 I love to learn, tinker and take pictures!
 
 
