@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beginning
-description: ONE OK ROCK, my blog and where I am.
+description: ONE OK ROCK, my blog and SHAD.
 summary: The beginning of my blog.
 comments: true
 tags:
