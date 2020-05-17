@@ -7,11 +7,11 @@ title: About Me - Tri Ho
 
 **Hey There!**
 
-I'm an incoming [Computer Science Student at the University of Waterloo!](https://uwaterloo.ca/future-students/programs/computer-science){target="_blank"}.
+I'm an incoming [Computer Science Student at the University of Waterloo!](https://uwaterloo.ca/future-students/programs/computer-science).
 I love to learn, tinker and take pictures!
 
 
-I'm an avid member of the [ricing community](https://www.reddit.com/r/unixporn/){target="_blank"}, I love to make my desktop environment the most aesthetic it can possibly be. I am currently dual-booting Windows 10 and Manjaro Linux. Ever since middle school, graphic design is something I've found to love. [Here](./portfolio){target="_blank"} are some of my graphics. I also have a blog on this site, where I'm experimenting with creative writing.
+I'm an avid member of the [ricing community](https://www.reddit.com/r/unixporn/), I love to make my desktop environment the most aesthetic it can possibly be. I am currently dual-booting Windows 10 and Manjaro Linux. Ever since middle school, graphic design is something I've found to love. [Here](./portfolio) are some of my graphics. I also have a blog on this site, where I'm experimenting with creative writing.
 
 Offline, I take amateur pictures of nature and cityscapes, listen to music, or hang out with my friends.
 
