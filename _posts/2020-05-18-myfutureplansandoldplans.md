@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My name
-description: tri and what it means to me
+title: cooking
+description: how i used cooking to get through my anxiety
 summary: The beginning of my blog.
 comments: true
 tags:
