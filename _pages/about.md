@@ -7,7 +7,7 @@ title: About Me - Tri Ho
 
 **Hey There!**
 
-I'm an incoming <a href="https://uwaterloo.ca/future-students/programs/computer-science" target="_blank">Computer Science Student at the University of Waterloo!</a>.
+I'm an incoming <a href="https://uwaterloo.ca/future-students/programs/computer-science" target="_blank">Computer Science Student at the University of Waterloo!</a>
 I love to learn, tinker and take pictures!
 
 
@@ -41,3 +41,6 @@ I am always looking for new opportunities, whether you're a new teammate, a high
 [2]: http://www.facebook.com/vinhocent
 [3]: https://www.linkedin.com/in/tri-ho/
 [4]: http://www.github.com/vinhocent
+
+**What I'm currently listening to:**
+<iframe src="https://open.spotify.com/embed/playlist/3lIJf3i2NKVJub7ATBBcF8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
