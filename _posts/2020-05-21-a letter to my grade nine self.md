@@ -1,0 +1,51 @@
+---
+layout: post
+title: A letter to my 14 year old self
+description: 
+summary: omments: true
+tags:
+---
+May 21st 2020
+
+Hey dude,
+
+It's me, or I guess it's you? In any case, I've made it past the final stretch of highschool. I wanted to talk to you about these last past four years and give you my two cents.
+
+Well you've finally made it, you're past middle school and you're excited for the challenges of highschool. In reality, this excitement will soon turn into anxiety. All you thought highschool was going to be, will turn upside down. Your classes aren't going to be filled with child prodigies, you're not going to be a math champion and most importantly, you're going to fail — **fail hard.** *But all of that is ok.*
+
+In grade nine, your average is going to be on the dot, 80. But you're not going to care. The math enthusiast inside of you will completely die and you'll  just want to play videogames and watch anime. I am pretty sure you will get a 16% on an english test. You were ready to give up school entirely, drop out of highschool and life. But something keeps you pushing forward — this ethereal feeling in your heart and your mind. Your friends will get you out of this rut, *keep them forever — they will be your support line during the toughest times.*
+
+In grade ten, you're going to go through the biggest change of your life. Those friends I was talking about? Listen to them, they are going to force you to go to the school's fall leadership camp. It is there, you will meet the people that will forever change your life. The seniors you meet there will leave a long lasting impact on you. They will inspire you — you'll find motivation again. You are going to meet two people that will shape both your academic life and social life completely. It is this year, people know your name. You are no longer the chubby asian kid sitting at the back of the class — well maybe you still are but at least you have a name now! You will want to try harder in school, granted you're going to have ABSOLUTELY NO IDEA HOW TO DO THIS. But just the sole concept of wanting to be better will raise your average by 6 percent. However, the biggest change of them all will happen at the end of this year, you are going to get *circle glasses.* Also somehow by some magical force, you're going to SHAD.
+
+At SHAD, you're going to discover a word that you will live by for the next 2 years — **mettle.**
+
+*a person's ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way.* 
+
+You will engrain this word into all parts of your life, in fact it will be apart of your grad quote. At SHAD, you'll realize more about yourself, you'll feel emotions you haven't felt before and you'll meet some of the most influential people.
+
+You come back from SHAD with a new outlook on academics and friends. *Grade 11 is going to be your year.*
+
+It was not your year. In fact, you decided to stop talking to people and reserve yourself only to your close friends. But that's fine, you'll grow your relationships with your closest friends meanwhile juggling between extracurriculars and academics. You have no idea how to "win school" but you're sure you can do it, you're barely managing but soon enough you'll get into the rhythm of it. In the new year, you're going to be apart of something bigger than yourself. You'll find yourself working in pure mathematics, group theory to be exact. You and another highschooler will work alongside a graduate student to discover something untouched — you'll find yourself in love with mathematics. But that's not the only thing you'll fall in love with.
+
+You'll have your first true love, your first relationship — as someone who wanted to die young and alone, this is a shocker for you. Summer comes along and you're starting your second research internship — but you neglect your work while in love. You feel guilt and run away from this internship but you sitll manage.
+
+It's grade 12. *This is definitely going to be **your year*** With the study habits and tricks you accumulated over grade 11 and your drive to make your last year of highschool amazing, you are determined to see it through.
+
+It's the day before your SATs (oh yeah, you're applying to states, crazy right) you and your SO break up. This takes a toll on you and you lose sight of any semblance of mettle you had. Your math mark drops and you don't have the highest mark anymore but you don't care. You don't care about anything, you've lost that drive, that passion and everything that made you want to wake up in the morning.
+
+Months pass and the heartache follows you but you need to keep moving forward. One day after a cold shower in February, the mettle reignites and you get back a little bit of your drive back. You get back to where you were before your breakup, granted you're cynical and distrustful. Remember those friends I told you to keep? Those friends will keep you grounded and allow you to move past all the hurdles you've gone through. They will be the first friends to see you cry, the first to see you weak, the first to see you be vulnerable.
+
+You live day by day, taking it step by step, you have no idea what tomorrow will bring. But you just *keep on keeping on.*
+
+You get into UChicago, your first (and only) US school, and you can't believe it. You're good enough for the big leagues. However your heart is still with UofT's Engineering Science program, it has been for 5 years now. But one day you decide to watch videos by a YouTuber named "JomaTech" — a Waterloo grad. You feel compelled by his lifestyle, casual yet luxurious. You decide to research more into Waterloo's Computer Science program. You abandon EngSci in lieu of CS at Waterloo. The day you get in was the day you decide to come up with the idea to write this letter.
+
+Despite all of the hurdles you had to face this year — emotional baggage, consecutive unit tests and college apps — this is infact your year. You learn how to cook (granted not well), you start exercising and by the end of it, you have a reliable and amazing friends group.
+
+You know me, of course you do, you are me — this letter has been all over the place but I hope you found it a nice read, good luck in Mr.Stewart's Algebra class and always remember to *make mettle.*
+
+Btw, here's a tip for senior year: get the locker that has only one locker beside it so, you can slam the door against the wall without it damaging anyones lock.
+
+Take care,
+Tri
+
+> btw if you're not me and reading this, i hope you had an interesting read! this was a lil window into my four years of highschool.
