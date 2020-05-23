@@ -20,7 +20,7 @@ Each line screams urgency, I needed to act and become the best version of me I c
 
 But that's enough of SHAD, this blog is about ONE ROCK.
 
-To be honest, I've only listened to Bombs Away and their other hit songs, I've never listened to THe Beginning, that was just an excuse to talk about SHAD and Bombs Away in my first post.
+To be honest, I've only listened to Bombs Away and their other hit songs, I've never listened to The Beginning, that was just an excuse to talk about SHAD and Bombs Away in my first post.
 
 Thanks for reading! Come again!
 
